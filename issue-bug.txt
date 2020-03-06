@@ -1,1 +1,2 @@
-hello, i have fix the bug 
+hello, i have fix the bug
+another bug
